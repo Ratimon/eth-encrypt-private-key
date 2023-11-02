@@ -1,8 +1,7 @@
 {
 	"scripts": {
 		"---------------------- UTILITIES ----------------------": "",
-		"encrypt": "node scripts/encrypt.ts",
-		"encrypt2": "pnpm hardhat run scripts/encrypt.ts"
+		"encrypt-ts": "pnpm hardhat run scripts/encrypt.ts"
 	},
 	"devDependencies": {
 		"@nomicfoundation/hardhat-network-helpers": "^1.0.0",

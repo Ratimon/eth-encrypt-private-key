@@ -9,16 +9,4 @@ typechain-types
 cache
 artifacts
 
-
-node_modules
-.encryptedKey.json
-.env
-coverage
-coverage.json
-typechain
-typechain-types
-
-# Hardhat files
-cache
-artifacts
-
+/keys/*

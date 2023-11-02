@@ -21,7 +21,7 @@ async function main() {
       process.env.PRIVATE_KEY_PASSWORD,
     );
     console.log(encryptedJsonKey);
-    fs.writeFileSync('./.encryptedKey.json', encryptedJsonKey);
+    fs.writeFileSync('./keys/.encryptedKey.json', encryptedJsonKey);
 
 }
 
