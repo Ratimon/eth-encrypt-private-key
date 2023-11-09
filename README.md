@@ -2,7 +2,7 @@
 
 Use hardhat script:
 ```sh
-pnpm encrypt2
+pnpm encrypt-ts
 ```
 Alternatively, use `cast`:
 
